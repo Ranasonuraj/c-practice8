@@ -9,6 +9,6 @@ int main()
         sum += i;
     }
     //
-    cout << "Sum = " << sum;
+    cout << sum;
     return 0;
 }
